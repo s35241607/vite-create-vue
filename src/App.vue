@@ -12,7 +12,6 @@ import HelloWorld from './components/HelloWorld.vue'
 				<v-icon>mdi-star</v-icon>
 				Lan Project
 			</v-toolbar-title>
-			<!-- edit -->
 			<RouterLink to="/">Home</RouterLink>
 			<RouterLink to="/about">About</RouterLink>
 		</v-app-bar>
